@@ -75,8 +75,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/anugrah2803/JARVISAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anugrah2803&repo=JARVISAI&theme=radical&border_color=FF6B6B&title_color=FFC300&icon_color=36D1DC" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anugrah2803&repo=JARVISAI&theme=radical&border_color=FF6B6B&title_color=FFC300&icon_color=36D1DC&cache_seconds=1800" />
 
 </div>
 
